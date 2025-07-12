@@ -1,1 +1,1 @@
-hit python
+hit pytho
